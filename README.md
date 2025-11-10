@@ -32,7 +32,7 @@ I love meeting new people! Reach me through:
 
 Always excited to exchange ideas, learn together, and build amazing things! ✨
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=zhyU0-0&color=blueviolet)
 
 *Thanks for stopping by! Have a wonderful day! 🌟*
 <!--
