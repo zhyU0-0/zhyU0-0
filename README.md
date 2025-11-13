@@ -20,6 +20,9 @@ Welcome to my GitHub corner! I'm thrilled to have you here.
 - 💡 Fascinated by **AI application development**
 - 🌟 Mission: Make life better through technology
 
+### 🧑‍💻 Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhyU0-0&layout=compact)
+
 ## 📫 Let's Connect
 
 I love meeting new people! Reach me through:
